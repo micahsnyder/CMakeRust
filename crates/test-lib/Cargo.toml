@@ -7,3 +7,4 @@ authors = ["Marc-André Moreau <marcandre.moreau@gmail.com>"]
 crate-type = ["staticlib"]
 
 [dependencies]
+colored = "2.0.0"
